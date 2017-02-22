@@ -1,1 +1,1 @@
-# RY
+# RY — human and machine learning
