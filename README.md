@@ -1,1 +1,1 @@
-# ry-team.github.io
+# ry-team.com
