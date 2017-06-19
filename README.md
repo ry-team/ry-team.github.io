@@ -1,3 +1,5 @@
+<img width="142" alt="logo" class="column" src="https://user-images.githubusercontent.com/1227622/27274536-268fe750-54ed-11e7-88ae-c9c277ff8b47.png">
+
 # RY — human and machine learning
 
 ## Разработка ИТ-решений, аутсорс-разработка
