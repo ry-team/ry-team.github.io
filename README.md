@@ -1,7 +1,5 @@
 <img width="142" alt="logo" src="https://user-images.githubusercontent.com/1227622/27274867-745d584a-54ee-11e7-907f-a6b8f176ffb2.png">
 
-# RY — human and machine learning
-
 ## Разработка ИТ-решений, аутсорс-разработка
 - разработка веб-сервисов, API, мобильных и десктопных приложений
 - разработка высоконагруженных веб-сервисов
