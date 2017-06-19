@@ -1,4 +1,4 @@
-<img width="142" alt="logo" src="https://user-images.githubusercontent.com/1227622/27274536-268fe750-54ed-11e7-88ae-c9c277ff8b47.png">
+<img width="142" alt="logo" src="https://user-images.githubusercontent.com/1227622/27274867-745d584a-54ee-11e7-907f-a6b8f176ffb2.png">
 
 # RY — human and machine learning
 
