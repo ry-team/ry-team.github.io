@@ -12,6 +12,7 @@
 
 ---
 
+
 Mail: <a href="mailto:ruslan@ry-team.com">ruslan@ry-team.com</a>  
 Phone: +1 (628) 202-22-10  
-Telegram: <a href="https://t.me/monitoringe">@monitoringe</a>  
+Telegram: <a href="https://t.me/monitoringe">@monitoringe</a>  
