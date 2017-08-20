@@ -1,8 +1,3 @@
----
-title: Ruslan Yuldashev
-parmalink: /
----
-
 # Ruslan Yuldashev
 
 ## I'm good in
