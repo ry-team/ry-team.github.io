@@ -1,19 +1,17 @@
-<img width="142" alt="logo" src="https://user-images.githubusercontent.com/1227622/27274867-745d584a-54ee-11e7-907f-a6b8f176ffb2.png">
+## Ruslan Yuldashev
 
-## Разработка ИТ-решений, аутсорс-разработка
+## I'm good in
+- shipping web-services, desktop/mobile applications
+- set up and customize software develompemt flow in your team
+- code audit and consulting in tech
+
+## Чем я могу быть полезен
 - разработка веб-сервисов, API, мобильных и десктопных приложений
-- разработка высоконагруженных веб-сервисов
-- боты, рекомендательные системы, аналитические и учетные системы
-
-## Консультация и аудит ИТ-проектов
 - проверка и настройка процесса разработки
 - аудит кода и архитектуры проектов
-- консультации и менторинг технических решений
 
-## Консультация образовательных проектов
-- разработка методических пособий, учебных планов
-- помощь в подборе алгоритмов научения
-- разработка инструментов генерации контента
+---
 
-
-Для связи: <a href="mailto:ruslan@ry-team.com">ruslan@ry-team.com</a>.
+Mail: <a href="mailto:ruslan@ry-team.com">ruslan@ry-team.com</a>  
+Phone: +1 (628) 202-22-10  
+Telegram: <a href="https://t.me/monitoringe">@monitoringe</a>  
