@@ -1,4 +1,8 @@
-# Ruslan Yuldashev #
+---
+title: Ruslan Yuldashev
+---
+
+# Ruslan Yuldashev
 
 ## I'm good in
 - consulting in tech on first stages
