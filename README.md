@@ -1,5 +1,6 @@
 ---
 title: Ruslan Yuldashev
+parmalink: /
 ---
 
 # Ruslan Yuldashev
