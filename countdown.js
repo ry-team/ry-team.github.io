@@ -102,6 +102,7 @@ Countdown.prototype.drawTime = function(element, endtime) {
 		if (remain <= 1000) {
 			console.log('timer ends');
 			clearInterval(count);
+			location.reload(true);
 		}
 	}
 };
