@@ -27,6 +27,8 @@ function Countdown(config) {
 		config.hide[3]
 	];
 
+	this.callback = config.callbackFunc;
+
 	this.drawTime(this.element, this.deadline);
 }
 
@@ -102,7 +104,7 @@ Countdown.prototype.drawTime = function(element, endtime) {
 		if (remain <= 1000) {
 			console.log('timer ends');
 			clearInterval(count);
-			location.reload(true);
+			self.callback();
 		}
 	}
 };
